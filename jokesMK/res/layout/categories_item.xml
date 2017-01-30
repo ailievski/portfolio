@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <ImageView 
+        android:id="@+id/img_category_picture"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:paddingLeft="@dimen/activity_img_categories_margin"
+        android:paddingTop="@dimen/activity_img_categories_margin"
+        android:paddingBottom="@dimen/activity_img_categories_margin"
+        android:paddingRight="@dimen/activity_img_categories_margin"/>
+    
+    <TextView 
+        android:id="@+id/txt_category_item"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_toRightOf="@id/img_category_picture"
+        android:textSize="16sp"
+        android:typeface="sans"
+        android:paddingLeft="@dimen/activity_my_profile_margin"
+        android:paddingTop="@dimen/activity_my_profile_margin"
+        android:paddingBottom="@dimen/activity_my_profile_margin"
+        android:paddingRight="@dimen/activity_my_profile_margin"
+		/>
+    
+    <TextView 
+        android:id="@+id/txt_number_of_jokes_in_category"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_alignParentRight="true"/>
+    
+
+</RelativeLayout>

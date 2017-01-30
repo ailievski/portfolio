@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="btn_background">#A347FF</color>
+    <color name="activity_bacground">#EBCCF5</color>
+    <color name="list_color">#FFFFFF</color>
+    <color name="text_color">#000000</color>
+    
+</resources>

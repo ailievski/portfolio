@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html>
+		<body>
+				<meta charset="utf-8" />
+				<meta name="viewport" content="width=device-width, initial-scale=1" />
+				<title>Jokes MK</title>
+				
+				<link rel="stylesheet" href="css/themes/jokesMK.css" />
+				<link rel="stylesheet" href="css/themes/jquery.mobile.icons.min.css" />
+				<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css" /> 
+				
+				<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script> 
+				<script src="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js"></script> 
+				
+				<style>
+					.ui-li-thumb{
+					margin-top:10px;
+					margin-left:10px;
+					margin-bottom:10px;
+					}
+				</style>
+		</body>
+		<head>
+				<!-- Login Screen -->
+				<div data-role="page" id="login" data-theme="a">
+						<div data-role="header">
+								<h2>jokesMK</h2>
+								<img src="images/MKVicevi_icon.png" class="ui-btn-left" width="35px" height="35px" />
+						</div>
+						<div data-role="content">
+								<div style="position:relative" align="center">
+										<img src="images/MKVicevi_icon.png" />
+								</div>
+								<label>Корисничко име:</label>
+								<input type="text" name="admin" id="user_name" value=""  />
+								<label>Лозинка:</label>
+								<input type="text" name="admin" id="password" value="" />
+								</br>
+								<a href="#home" data-role="button">Најави се!</a>
+								</br></br></br>
+						</div>
+						<div data-role="footer">
+								<h3> &copy; Andrej Ilievski </h3>
+						</div>
+				</div>
+				<!-- Home Screen -->
+				<div data-role="page" id="home" data-theme="a">
+						<div data-role="header">
+								<h2>jokesMK</h2>
+								<img src="images/MKVicevi_icon.png" class="ui-btn-left" width="35px" height="35px" />
+						</div>
+						<div data-role="content">
+								<div class="ui-grid-b">
+										<div class="ui-block-a">
+												<a href="#newest" data-role="button">Најнови</a>
+										</div>
+										<div class="ui-block-b">
+												<a href="#most_popular" data-role="button">Најпопуларни</a>
+										</div>
+										<div class="ui-block-c">
+												<a href="#my_profile" data-role="button">Мој Профил</a>
+										</div>
+										</br>
+										</br>
+										</br>
+										<ul data-role="listview" data-inset="true" >
+												<li>
+														<a href="#informaticki">
+														<img src="images/informaticki.png" class="ui-li-thumb">
+														<h1>Информатички</h1>
+														</a>
+												</li>
+												<li>
+														<a href="#obrazovanie">
+														<img src="images/obrazovanie.png" class="ui-li-thumb"/>
+														<h1>Образование</h1>
+														</a>
+												</li>
+												<li>	
+														<a href="#policajski">
+														<img src="images/policajski.png" class="ui-li-thumb"/>
+														<h1>Полицајски</h1>
+														</a>
+												</li>
+												<li>
+														<a href="#plavushi">
+														<img src="images/plavushi.png" class="ui-li-thumb"/>
+														<h1>Плавуши</h1>
+														</a>
+												</li>
+												<li>
+														<a href="#politicki">
+														<img src="images/politicki.png" class="ui-li-thumb"/>
+														<h1>Политички</h1>
+														</a>
+												</li>
+												<li>
+														<a href="#zivotni">
+														<img src="images/zivotni.png" class="ui-li-thumb"/>
+														<h1>Животни</h1>
+														</a>
+												</li>
+												<li>
+														<a href="#erotski">
+														<img src="images/erotski.png" class="ui-li-thumb"/>
+														<h1>Еротски</h1>
+														</a>
+												</li>
+												<li>
+														<a href="#zlatna_riba">
+														<img src="images/zlatna_riba.png" class="ui-li-thumb"/>
+														<h1>Златна риба</h1>
+														</a>
+												</li>
+												<li>
+														<a href="#cak_noris">
+														<img src="images/cak_noris.png" class="ui-li-thumb"/>
+														<h1>Чак Норис</h1>
+														</a>
+												</li>
+												<li>
+														<a href="#perica">
+														<img src="images/perica.png" class="ui-li-thumb"/>
+														<h1>Перица</h1>
+														</a>
+												</li>
+												<li>
+														<a href="#mujo">
+														<img src="images/mujo.png" class="ui-li-thumb"/>
+														<h1>Мујо</h1>
+														</a>
+												</li>
+												<li>
+														<a href="#razno">
+														<img src="images/razno.png" class="ui-li-thumb"/>
+														<h1>Разно</h1>
+														</a>
+												</li>
+										</ul>
+								</div>
+						</div>
+						<div data-role="footer">
+								<h3> &copy; Andrej Ilievski </h3>
+						</div>
+				</div>
+				<!-- My Profile Screen -->
+				<div data-role="page" id="my_profile" data-theme="a">
+						<div data-role="header">
+								<h2>Мој Профил</h2>
+								<a href="#home" data-role="button" align="right">Back</a>
+						</div>
+						<div data-role="content">
+								<div class="ui-grid-a">
+										<div class="ui-block-a">
+												<div style="position:relative" align="center">
+														<img src="images/empty_profile.png" align="center" />
+												</div>
+										</div>
+										<div class="ui-block-b">
+												</br></br></br></br>
+												<a href="#galery" data-role="button">Избери слика</a>
+										</div>
+								</div>
+								</br>
+								<label>Корисничко име</label>
+								<input type="text" name="user_name" id="user" value="Андреј" />
+								<label>Град</label>
+								<input type="text" name="city" id="city" value="Кратово" />
+								<label>Корисничко име</label>
+								<input type="text" name="user_name" id="user" value="Андреј" />
+								<label>Датум</label>
+								<input type="text" data-role="date" data-inline="true" />
+								<div class="ui-grid-b">
+										<div class="ui-block-a">
+												</br>
+												<label>Пол</label>
+										</div>
+										<div class="ui-block-b">
+												<input type="radio" name="radio-choice" id="radio-choice-1" value="choice-1" checked="checked" />
+												<label for="radio-choice-1">Машко</label>
+										</div>
+										<div class="ui-block-c">
+												<input type="radio" name="radio-choice" id="radio-choice-2" value="choice-2" checked="checked" />
+												<label for="radio-choice-2">Женско</label>
+										</div>
+								</div>
+								<a href="#zacuvaj" data-role="button">Зачувај!</a>
+						</div>
+						<div data-role="footer">
+								<h3> &copy; Andrej Ilievski </h3>
+						</div>
+				</div>
+				<!-- Informaticki Screen -->
+				<div data-role="page" id="informaticki" data-theme="a">
+						<div data-role="header">
+								<a href="#home" data-role="button" align="right">Back</a>
+								<h2>Информатички</h2>
+								<a href="#addjoke" data-role="button">Испрати Виц!</a>
+						</div>
+						<div data-role="content">
+								<ul data-role="listview" data-inset="true">
+										<li>
+												<p>Како се разладуваат хакери? </br>
+													- Десен клик, refresh.
+												<p>
+												<div class="ui-grid-a">
+														<div class="ui-block-a">
+																<div style="position:relative" align="left">
+																		<img src="images/user.png" width="30px" height="30px" />
+																</div>
+														</div>
+														<div class="ui-block-b">
+																<div style="position:relative" align="right">
+																		<img src="images/rating.png" width="30px" height="30px" />
+																</div>
+														</div>
+												</div>
+										</li>
+										<li>
+												<p>Шест причини зошто компјутерите мора да се од женски род: </br>
+													1. Штом набавите еден, некој друг и подобар се наоѓа веднаш „Зад аголот“. </br>
+													2. Внатрешната логика не ја рабира никој друг освен креаторот. </br>
+													3. Дури и најмалите грешки се внесуваат во меморијата. </br>
+													4. Матичниот јазик што компјутерите го користат за меѓусебна комуникација не го разбира никој друг.</br>
+													5. Пораката „Bad command or file name„ (Погрешна команда или ме на фајл) е информативна колку и исказот: </br>
+													„Ако не знаеш зошто ти се лутам, јас сигурно нема да ти кажам“. </br>
+													6. Штом се приврзете кон еден компјутер, половина од вашата плата ќе ја трошите за да купувате додатна опрема.</br>
+												<p>
+												<div class="ui-grid-a">
+														<div class="ui-block-a">
+																<div style="position:relative" align="left">
+																		<img src="images/user.png" width="30px" height="30px" />
+																</div>
+														</div>
+														<div class="ui-block-b">
+																<div style="position:relative" align="right">
+																		<img src="images/rating.png" width="30px" height="30px" />
+																</div>
+														</div>
+												</div>
+										</li>
+										<li>
+												<p>Се враќа мрежен администратор дома по 2 дена и жена му го чека на врата: </br>
+													- Ајде сега да ми објасниш каде беше и што правеше! </br>
+													Човеков сиот расеан вели: </br>
+													- Види драга, вчера требаше да се одржи состанок на работа и чекавме додека дојде делегација од странство.</br> 
+													Откако заврши состанокот, доцна вечерта почна да врне силен дожд. Една колешка што работи како секретарка </br> 
+													требаше да си оди дома и јас ја префрлив со кола. Пред нејзината зграда, штом тргнав дома предната десна гума ми пукна. </br> 
+													Земав да ја поправам ама многу врнеше и секретарката ме покани да влезам кај нејзе да се напијам чај со рум додека не преврне. </br> 
+													Штом преврна си реков да тргнам накај дома ама видов долу полиција и што да правам... Пиев алкохол и ќе ме казнат веднаш, си реков. </br>
+													Колешката ми понуди да преспијам кај нејзе, па затоа се враќам денес. </br>
+													На сето тоа жената му одговара: </br>
+													- Е да бе, ти мене ќе ме лажеш. Цела ноќ си ја преседел у канцеларија на интернет идиот еден! </br>
+												<p>
+												<div class="ui-grid-a">
+														<div class="ui-block-a">
+																<div style="position:relative" align="left">
+																		<img src="images/user.png" width="30px" height="30px" />
+																</div>
+														</div>
+														<div class="ui-block-b">
+																<div style="position:relative" align="right">
+																		<img src="images/rating.png" width="30px" height="30px" />
+																</div>
+														</div>
+												</div>
+										</li>
+										<li>
+												<p>Како мрежист ѝ се пушта на програмерка? </br>
+													- Прави ping и чека да види дали ќе добие reply или пак destination host unreachable.
+												<p>
+												<div class="ui-grid-a">
+														<div class="ui-block-a">
+																<div style="position:relative" align="left">
+																		<img src="images/user.png" width="30px" height="30px" />
+																</div>
+														</div>
+														<div class="ui-block-b">
+																<div style="position:relative" align="right">
+																		<img src="images/rating.png" width="30px" height="30px" />
+																</div>
+														</div>
+												</div>
+										</li>
+										<li>
+												<p> Wikipedia: Јас знам се! </br>
+													Google: Јас имам се! </br>
+													Internet: Без мене не можите! </br>
+													Струја: Навистина?						
+												<p>
+												<div class="ui-grid-a">
+														<div class="ui-block-a">
+																<div style="position:relative" align="left">
+																		<img src="images/user.png" width="30px" height="30px" />
+																</div>
+														</div>
+														<div class="ui-block-b">
+																<div style="position:relative" align="right">
+																		<img src="images/rating.png" width="30px" height="30px" />
+																</div>
+														</div>
+												</div>
+										</li>
+								</ul>
+						</div>
+						<div data-role="footer">
+								<h3> &copy; Andrej Ilievski </h3>
+						</div>
+				</div>
+				<!-- Add Joke Screen -->
+				<div data-role="page" id="addjoke" data-theme="a">
+						<div data-role="header">
+								<h1>Испрати виц</h1>
+						</div>
+						<div data-role="content">
+								<label align="center">Внеси го вицот</label>
+								</br></br>
+								<input type="text" name="name" id="password" value="" />
+								</br></br>
+								<div class="ui-grid-a">
+										<div class="ui-block-a">
+												<a href="#send" data-role="button">Испрати</a>
+										</div>
+										<div class="ui-block-b">
+												<a href="#informaticki" data-role="button">Откажи</a>
+										</div>
+								</div>
+								</br></br></br></br></br></br></br></br></br></br></br>
+						</div>
+						<div data-role="footer">
+								<h3> &copy; Andrej Ilievski </h3>
+						</div>
+				</div>
+		</head>
+</html>

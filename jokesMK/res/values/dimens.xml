@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">8dp</dimen>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+    <dimen name="activity_my_profile_margin">12dp</dimen>
+    <dimen name="activity_img_categories_margin">4dp</dimen>
+    <dimen name="activity_jokes_list_margin">8dp</dimen>
+
+</resources>
