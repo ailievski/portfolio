@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+	<title>Е-Кошничка | Е-Продавница</title>
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/price-range.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
+	<link href="css/main.css" rel="stylesheet">
+	<link href="css/responsive.css" rel="stylesheet">
+	
+	<link rel="shortcut icon" href="images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+	<script type="text/javascript" src="js/e-kosnicka.js"></script>
+</head>
+<body>
+<div id="site">
+	<header id="header"><!--header-->
+		<div class="header_top"><!--header_top-->
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-6">
+						<div class="contactinfo">
+							<ul class="nav nav-pills">
+								<li><a><i class="fa fa-phone"></i> +389 71 123 456</a></li>
+								<li><a><i class="fa fa-envelope"></i> info@e-prodavnica.com</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="main-menu pull-right">
+							<ul class="nav navbar-nav">
+								<li><a href="naslovna.html" class="active">ДОМА</a></li>
+								<li><a href="#" class="active">ПРОИЗВОДИ</a><li>
+								<li><a href="pomosh.html" class="active">ПОМОШ</a><li>
+								<li><a href="kontakt.html" class="active">КОНТАКТ</a><li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>			
+		<div class="header_middle">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="logo pull-left">
+							<a href="naslovna.html"><img src="images/home/logo.jpg" /></a>
+						</div>
+					</div>
+					<div class="col-sm-5">
+						<div class="shop-menu">
+							<ul class="nav navbar-nav">
+								<li><a href="najava.html"><i class="fa fa-user"></i> Најави се </a></li>
+								<li><a href="e-kosnicka.html"><i class="fa fa-shopping-cart"></i> Е-Кошничка </a></li>
+								<li><a href="lista-na-zelbi.html"><i class="fa fa-star"></i> Листа на желби</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	
+	<section id="cart_items">
+		<div class="container">
+			<div class="breadcrumbs">
+				<ol class="breadcrumb">
+				  <li><a href="naslovna.html">Дома</a></li>
+				  <li class="active">Шопинг картичка</li>
+				</ol>
+			</div>
+			
+			<form id="e-kosnicka" action="e-kosnicka.html" method="post">
+				<div class="table-responsive cart_info">
+					<table class="table table-condensed">
+						<thead>
+							<tr class="cart_menu">
+								<th scope="col">Производ</td>
+								<th scope="col">Количина</td>
+								<th scope="col">Цена</td>
+								<th scope="col">Вкупно</td>
+							</tr>
+						</thead>
+						<tbody></tbody>
+					</table>
+				</div>
+			</form>
+			
+			<div class="col-sm-3">
+				<p><input type="submit" name="delete" id="empty_cart" value="Испразни ја кошничката" class="btn btn-default" /></p>
+			</div>
+			<div class="col-sm-9 pull-right">
+				<a href="naslovna.html" class="btn btn-default">Продолжи со купување</a>
+			</div>
+		</div>
+	</section> 
+	
+	<footer id="footer">
+		<div class="footer-top">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-7">
+						<div class="col-sm-3">
+							<div class="video-gallery text-center">
+									<div class="iframe-img">
+										<img src="images/home/payment/pay1.jpg" alt="" />
+									</div>
+							</div>
+						</div>
+						<div class="col-sm-3">
+							<div class="video-gallery text-center">
+									<div class="iframe-img">
+										<img src="images/home/payment/pay2.jpg" alt="" />
+									</div>
+							</div>
+						</div>
+						<div class="col-sm-3">
+							<div class="video-gallery text-center">
+									<div class="iframe-img">
+										<img src="images/home/payment/pay3.jpg" alt="" />
+									</div>
+							</div>
+						</div>
+						<div class="col-sm-3">
+							<div class="video-gallery text-center">
+									<div class="iframe-img">
+										<img src="images/home/payment/pay4.jpg" alt="" />
+									</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer-bottom">
+			<div class="container">
+				<div class="row">
+					<p class="pull-left">Copyright © 2015 Е-ПРОДАВНИЦА Inc. All rights reserved.</p>
+					<p class="pull-right">Изработено од: <span>Андреј Илиевски</span></p>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+    <script src="js/jquery.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.scrollUp.min.js"></script>
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script src="js/main.js"></script>
+</div>
+</body>
+</html>

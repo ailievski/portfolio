@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+	<title>Контакт | Е-Продавница</title>
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/price-range.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
+	<link href="css/main.css" rel="stylesheet">
+	<link href="css/responsive.css" rel="stylesheet">
+	
+	<link rel="shortcut icon" href="images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+</head>
+<body>
+	<header id="header"><!--header-->
+		<div class="header_top"><!--header_top-->
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-6">
+						<div class="contactinfo">
+							<ul class="nav nav-pills">
+								<li><a><i class="fa fa-phone"></i> +389 71 123 456</a></li>
+								<li><a><i class="fa fa-envelope"></i> info@e-prodavnica.com</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="main-menu pull-right">
+							<ul class="nav navbar-nav">
+								<li><a href="naslovna.html" class="active">ДОМА</a></li>
+								<li><a href="#" class="active">ПРОИЗВОДИ</a><li>
+								<li><a href="pomosh.html" class="active">ПОМОШ</a><li>
+								<li><a href="kontakt.html" class="active">КОНТАКТ</a><li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!--/header_top-->			
+		<div class="header_middle">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="logo pull-left">
+							<a href="naslovna.html"><img src="images/home/logo.jpg" /></a>
+						</div>
+					</div>
+					<div class="col-sm-5">
+						<div class="shop-menu">
+							<ul class="nav navbar-nav">
+								<li><a href="najava.html"><i class="fa fa-user"></i> Најави се </a></li>
+								<li><a href="e-kosnicka.html"><i class="fa fa-shopping-cart"></i> Е-Кошничка </a></li>
+								<li><a href="lista-na-zelbi.html"><i class="fa fa-star"></i> Листа на желби</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	
+	<div id="contact-page" class="container">
+    	<div class="bg">
+	    	<div class="row">    		
+	    		<div class="col-sm-12">    			   			
+					<h2 class="title text-center">Локација</h2>    			    				    				
+					<div id="gmap" class="contact-map" style="width:100%;height:380px;">
+					</div>
+				</div>			 		
+			</div>    	
+    		<div class="row">  	
+	    		<div class="col-sm-8">
+					<div id="contact">
+	    			<div class="contact-form">
+	    				<h2 class="title text-center">Контакт формулар</h2>
+					</div>
+				    	<form id="main-contact-form" class="contact-form row" name="contact-form" method="post" action="#">
+				            <div class="form-group col-md-6">
+				                <input type="text" name="name" class="form-control" required="required" placeholder="Име" value="" >
+				            </div>
+				            <div class="form-group col-md-6">
+				                <input type="email" name="email" class="form-control" required="required" placeholder="Е-Пошта" value="">
+				            </div>
+				            <div class="form-group col-md-12">
+				                <input type="text" name="subject" class="form-control" required="required" placeholder="Наслов" value="">
+				            </div>
+				            <div class="form-group col-md-12">
+				                <textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Вашата порака..."></textarea>
+				            </div>                        
+				            <div class="form-group col-md-12">
+				                <input id="send" type="submit" name="submit" class="btn btn-primary pull-right" value="Испрати">
+				            </div>
+				        </form>
+						<h3><?php include "mail.php"?></h3>
+					</div>
+	    		</div>
+	    		<div class="col-sm-4">
+	    			<div class="contact-info">
+	    				<h2 class="title text-center">Контакт Информации</h2>
+	    				<address>
+	    					<p>Е-ПРОДАВНИЦА Inc.</p>
+							<p>Булевар Партизански Одреди 25/2</p>
+							<p>Скопје, Р. Македонија</p>
+							<p>Телефон: +389 71 123 456</p>
+							<p>Факс: +389 2 123 45 67</p>
+							<p>Е-пошта: info@e-prodavnica.com</p>
+	    				</address>
+	    			</div>
+    			</div>
+				<div class="col-sm-4">
+	    			<div class="custom-mail">
+	    				<h2 class="title text-center">Испрати порака</h2>
+	    				<h4 class="text-center"><A HREF="mailto:ilearsenal@hotmail.com">
+						Испрати порака преку Е-пошта</A></h4>
+	    			</div>
+    			</div>    	
+	    	</div>  
+    	</div>	
+    </div><!--/#contact-page-->
+	
+	<footer id="footer"><!--Footer-->
+		<div class="footer-top">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-7">
+						<div class="col-sm-3">
+							<div class="video-gallery text-center">
+									<div class="iframe-img">
+										<img src="images/home/payment/pay1.jpg" alt="" />
+									</div>
+							</div>
+						</div>
+						<div class="col-sm-3">
+							<div class="video-gallery text-center">
+									<div class="iframe-img">
+										<img src="images/home/payment/pay2.jpg" alt="" />
+									</div>
+							</div>
+						</div>
+						<div class="col-sm-3">
+							<div class="video-gallery text-center">
+									<div class="iframe-img">
+										<img src="images/home/payment/pay3.jpg" alt="" />
+									</div>
+							</div>
+						</div>
+						<div class="col-sm-3">
+							<div class="video-gallery text-center">
+									<div class="iframe-img">
+										<img src="images/home/payment/pay4.jpg" alt="" />
+									</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer-bottom">
+			<div class="container">
+				<div class="row">
+					<p class="pull-left">Copyright © 2015 Е-ПРОДАВНИЦА Inc. All rights reserved.</p>
+					<p class="pull-right">Изработено од: <span>Андреј Илиевски</span></p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	
+
+	<script src="js/jquery.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="http://maps.googleapis.com/maps/api/js"></script>
+	<script>
+	function initialize() {
+		var mapProp = {
+			center:new google.maps.LatLng(41.998805,21.421645),
+			zoom:16,
+			mapTypeId:google.maps.MapTypeId.ROADMAP
+		};
+		var map=new google.maps.Map(document.getElementById("gmap"),mapProp);
+	}
+	google.maps.event.addDomListener(window, 'load', initialize);
+	</script>
+	<script src="js/contact.js"></script>
+	<script src="js/price-range.js"></script>
+    <script src="js/jquery.scrollUp.min.js"></script>
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+	<title>Најава | Е-Продавница</title>
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/price-range.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
+	<link href="css/main.css" rel="stylesheet">
+	<link href="css/responsive.css" rel="stylesheet">
+	
+	<link rel="shortcut icon" href="images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+</head>
+<body onload="document.myForm.nameField.value = userName">
+	<header id="header"><!--header-->
+		<div class="header_top"><!--header_top-->
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-6">
+						<div class="contactinfo">
+							<ul class="nav nav-pills">
+								<li><a><i class="fa fa-phone"></i> +389 71 123 456</a></li>
+								<li><a><i class="fa fa-envelope"></i> info@e-prodavnica.com</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="main-menu pull-right">
+							<ul class="nav navbar-nav">
+								<li><a href="naslovna.html" class="active">ДОМА</a></li>
+								<li><a href="#" class="active">ПРОИЗВОДИ</a><li>
+								<li><a href="pomosh.html" class="active">ПОМОШ</a><li>
+								<li><a href="kontakt.html" class="active">КОНТАКТ</a><li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!--/header_top-->			
+		<div class="header_middle">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="logo pull-left">
+							<a href="naslovna.html"><img src="images/home/logo.jpg" /></a>
+						</div>
+					</div>
+					<div class="col-sm-5">
+						<div class="shop-menu">
+							<ul class="nav navbar-nav">
+								<li><a href="najava.html"><i class="fa fa-user"></i> Најави се </a></li>
+								<li><a href="e-kosnicka.html"><i class="fa fa-shopping-cart"></i> Е-Кошничка </a></li>
+								<li><a href="lista-na-zelbi.html"><i class="fa fa-star"></i> Листа на желби</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	
+	<section id="login_form">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-sm-offset-1">
+					<div class="login-form">
+						<h2>Најави се на твојот профил</h2>
+						<form action="#" name="myForm">
+							<input type="text" placeholder="Име" name="nameField" onblur="setCookie()" />
+							<input type="email" placeholder="Е-пошта" />
+							<span>
+								<input type="checkbox" class="checkbox"> 
+								Задржи ме најавен!
+							</span>
+							<button type="submit" class="btn btn-default">Најави се</button>
+						</form>
+					</div>
+				</div>
+				<div class="col-sm-1">
+					<h2 class="or">ИЛИ</h2>
+				</div>
+				<div class="col-sm-4">
+					<div class="signup-form">
+						<h2>Регистрирај се!</h2>
+						<form action="#">
+							<input type="text" placeholder="Име"/>
+							<input type="text" placeholder="Презиме"/>
+							<input type="email" placeholder="Е-пошта"/>
+							<input type="number" placeholder="Телефон"/>
+							<input type="text" placeholder="Адреса"/>
+							<input type="text" placeholder="Град"/>
+							<input type="number" placeholder="Поштенски број"/>
+							<input type="text" placeholder="Држава"/>
+							<input type="password" placeholder="Вашата лозинка"/>
+							<input type="password" placeholder="Потврди лозинка"/>
+							<button type="submit" class="btn btn-default">Регистрирај се</button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<footer id="footer"><!--Footer-->
+		<div class="footer-top">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-7">
+						<div class="col-sm-3">
+							<div class="video-gallery text-center">
+									<div class="iframe-img">
+										<img src="images/home/payment/pay1.jpg" alt="" />
+									</div>
+							</div>
+						</div>
+						<div class="col-sm-3">
+							<div class="video-gallery text-center">
+									<div class="iframe-img">
+										<img src="images/home/payment/pay2.jpg" alt="" />
+									</div>
+							</div>
+						</div>
+						<div class="col-sm-3">
+							<div class="video-gallery text-center">
+									<div class="iframe-img">
+										<img src="images/home/payment/pay3.jpg" alt="" />
+									</div>
+							</div>
+						</div>
+						<div class="col-sm-3">
+							<div class="video-gallery text-center">
+									<div class="iframe-img">
+										<img src="images/home/payment/pay4.jpg" alt="" />
+									</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer-bottom">
+			<div class="container">
+				<div class="row">
+					<p class="pull-left">Copyright © 2015 Е-ПРОДАВНИЦА Inc. All rights reserved.</p>
+					<p class="pull-right">Изработено од: <span>Андреј Илиевски</span></p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	
+	<script language="Javascript" type="text/javascript">
+		expireDate = new Date()
+		expireDate.setMonth(expireDate.getMonth()+6)
+		userName = ""
+		if (document.cookie != "") {
+		userName = document.cookie.split("=")[1]
+		}
+		function setCookie() {
+			userName = document.myForm.nameField.value
+			document.cookie = "userName="+userName+";expires=" + expireDate.toGMTString()
+		}
+	</script>
+	<script src="js/jquery.js"></script>
+	<script src="js/price-range.js"></script>
+    <script src="js/jquery.scrollUp.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

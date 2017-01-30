@@ -1,0 +1,51 @@
+
+
+public class Proizvod {
+	
+	public class Proizvod {
+
+		private String ime;
+		private String slika;
+		private String kategorija;
+		private int cena;
+		
+		public String getIme() {
+			return ime;
+		}
+		public void setIme(String ime) {
+			this.ime = ime;
+		}
+		public String getSlika() {
+			return slika;
+		}
+		public void setSlika(String slika) {
+			this.slika = slika;
+		}
+		public String getKategorija() {
+			return kategorija;
+		}
+		public void setKategorija(String kategorija) {
+			this.kategorija = kategorija;
+		}
+		public int getCena() {
+			return cena;
+		}
+		public void setCena(int cena) {
+			this.cena = cena;
+		}
+		
+		public Proizvod(String ime, String slika, String kategorija, int cena)
+		{
+			this.ime = ime;
+			this.slika = slika;
+			this.kategorija = kategorija;
+			this.cena = cena;
+		}
+		
+		static Proizvod[] getProizvodi() {
+			Proizvod[] proizvodi = { new Proizvod("Dell","1.1.jpg","Prenosni kompjuteri",24000),
+					new Proizvod("Narakvica","bb5.3.jpg","Nakit",2600),
+					new Proizvod("Tashna","bg5.1.jpg","Zeni",3500)};
+			return proizvodi;
+			}
+}

@@ -1,0 +1,124 @@
+import java.awt.Font;
+import java.awt.GridLayout;
+import java.awt.Image;
+
+import javax.swing.ImageIcon;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JList;
+import javax.swing.JPanel;
+import javax.swing.JScrollPane;
+
+import com.e_prodavnica.katalog.Proizvod;
+
+
+public class Katalog extends JFrame implements ListSelectionListener {
+	
+	private JList lista;
+	private JLabel slika, ime, kategorija, cena, l1;
+	private JScrollPane scroll;
+	private JFrame ramka;
+	private JPanel p1,p2,p3;
+	private JButton kosnicka;
+	private JButton lista_na_zelbi;
+	
+	Proizvod[] p = {
+			new Proizvod("Dell","pay1.jpg","Prenosni kompjuteri",24000),
+			new Proizvod("Narakvica","pay2.jpg","Nakit",2600),
+			new Proizvod("Tashna","pay3.jpg","Zeni",3500)
+	};
+	
+	public Catalog () {
+		
+		lista = new JList(p);
+		lista.addListSelectionListener(this);
+		lista.setBackground(new java.awt.Color(240, 240, 233));
+		lista.setForeground(new java.awt.Color(194, 194, 193));
+		lista.setSelectionMode(javax.swing.ListSelectionModel.SINGLE_SELECTION);
+		
+		scroll = new JScrollPane(lista);
+		scroll.setViewportView(lista);
+		
+		slika = new JLabel();
+		slika.setBackground(new java.awt.Color(240, 240, 233));
+		ImageIcon ic= new ImageIcon("C:\\Users\\Andrej\\Desktop\\Е-продавница\\images\\home\\payment\\pay1.jpg");
+		Image image= ic.getImage();
+        Image newimg = image.getScaledInstance(270, 250, Image.SCALE_SMOOTH);
+        ic= new ImageIcon(newimg);
+        slika.setHorizontalAlignment(JLabel.CENTER);
+        slika.setVerticalAlignment(JLabel.CENTER);
+        slika.setIcon(ic);
+		
+		ime = new JLabel();
+		ime.setBackground(new java.awt.Color(247, 247, 240));
+		ime.setFont(new java.awt.Font("Times New Roman", 0, 24));
+		ime.setForeground(new java.awt.Color(54, 52, 50));
+		ime.setText(p[0].getIme());
+		ime.setVerticalAlignment(JLabel.BOTTOM);
+		
+		kategorija = new JLabel();
+		kategorija.setBackground(new java.awt.Color(247, 247, 240));
+		kategorija.setFont(new java.awt.Font("Times New Roman", 0, 20)); 
+	    kategorija.setForeground(new java.awt.Color(180, 177, 171));
+	    kategorija.setText(p[0].getKategorija());
+	    kategorija.setVerticalAlignment(JLabel.TOP);
+	    
+	    l1 = new JLabel();
+		
+		cena = new JLabel();
+		cena.setBackground(new java.awt.Color(247, 247, 240));
+		cena.setFont(new java.awt.Font("Times New Roman", Font.BOLD, 22)); // NOI18N
+	    cena.setForeground(new java.awt.Color(243, 152, 15));
+	    cena.setText(String.valueOf(p[0].getCena()) + " МКД");
+	    cena.setHorizontalAlignment(JLabel.CENTER);
+	    cena.setVerticalAlignment(JLabel.TOP);
+		
+	    ImageIcon sc = new ImageIcon("C:\\Users\\Andrej\\Desktop\\sc.png");
+	    Image img= sc.getImage();
+        Image newimage = img.getScaledInstance(40, 30, Image.SCALE_SMOOTH);
+        sc = new ImageIcon(newimage);
+		kosnicka = new JButton("Додади во кошничка",sc);
+		kosnicka.setBackground(new java.awt.Color(253, 180, 94));
+		
+		ImageIcon star = new ImageIcon("C:\\Users\\Andrej\\Desktop\\star.png");
+	    Image img1= star.getImage();
+        Image newimage1 = img1.getScaledInstance(40, 30, Image.SCALE_SMOOTH);
+        star = new ImageIcon(newimage1);
+		lista_na_zelbi = new JButton("Листа на желби", star);
+		lista_na_zelbi.setBackground(new java.awt.Color(253, 180, 94));
+
+		p1 = new JPanel();
+	    p1.setLayout(new GridLayout(1,1,10,0));
+	    p1.add(lista);
+	    
+	    p2 = new JPanel();
+	    p2.setLayout(new GridLayout(1,1,10,0));
+	    p2.add(slika);
+	    
+	    p3 = new JPanel();
+	    p3.setLayout(new GridLayout(6,1,0,5));
+	    p3.add(ime);
+	    p3.add(kategorija);
+	    p3.add(l1);
+	    p3.add(cena);
+	    p3.add(kosnicka);
+	    p3.add(lista_na_zelbi);
+	    
+	    ramka = new JFrame("Најбарани производи");
+		ramka.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	    ramka.setLocationRelativeTo(null);
+	    ramka.setResizable(false);
+	    ramka.setVisible(true);
+	    ramka.setSize(900, 300);
+	    ramka.setLayout(new GridLayout());
+	    ramka.getContentPane().add(p1);
+	    ramka.getContentPane().add(p2);
+	    ramka.getContentPane().add(p3);
+	}
+
+	public static void main(String[] args) {
+
+	}
+
+}

@@ -1,0 +1,49 @@
+
+public class Proizvod {
+
+	private String ime;
+	private String slika;
+	private String kategorija;
+	private int cena;
+	
+	public Proizvod(String ime, String slika, String kategorija, int cena) {
+		super();
+		this.ime = ime;
+		this.slika = slika;
+		this.kategorija = kategorija;
+		this.cena = cena;
+	}
+
+	public String getIme() {
+		return ime;
+	}
+
+	public void setIme(String ime) {
+		this.ime = ime;
+	}
+
+	public String getSlika() {
+		return slika;
+	}
+
+	public void setSlika(String slika) {
+		this.slika = slika;
+	}
+
+	public String getKategorija() {
+		return kategorija;
+	}
+
+	public void setKategorija(String kategorija) {
+		this.kategorija = kategorija;
+	}
+
+	public int getCena() {
+		return cena;
+	}
+
+	public void setCena(int cena) {
+		this.cena = cena;
+	}
+	
+}
