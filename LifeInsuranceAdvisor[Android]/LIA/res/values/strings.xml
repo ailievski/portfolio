@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Животно Осигурување</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Main</string>
+    <string name="title_activity_results">ResultsActivity</string>
+    <string name="home_title">Животно Осигурување</string>
+    <string name="results_title">Резултат од пребарувањето</string>
+    <string name="kontakt_title">Постави прашање за понудата</string>
+    <string name="pol">Пол</string>
+    <string name="mashki">Машко</string>
+    <string name="zenski">Женско</string>
+    <string name="datum">Датум на раѓање:</string>
+    <string name="profesija">Професија (занимање):</string>
+    <string name="traenje">Траење на осигурувањето:</string>
+    <string name="premija">Годишна премија во еур:</string>
+    <string name="prebaraj">ПРЕБАРАЈ</string>
+    <string name="vnesi_datum">Внеси го датумот на раѓање</string>
+    <string name="spinner_duration_text">Избери години на траење</string>
+    <string name="spinner_profession_text">Избери професија (занимање)</string>
+    <string name="spinner_premium_text">Избери премија</string>
+    <string name="ime">Име</string>
+    <string name="email">E-mail</string>
+    <string name="telefon">Телефон</string>
+    <string name="poraka">Порака</string>
+    <string name="otkazi">ОТКАЖИ</string>
+    <string name="isprati">ИСПРАТИ</string>
+    <string name="promeni_premija">Промени премија</string>
+    <string name="promeni_period">Промени период</string>
+    <string name="contact">КОНТАКТ</string>
+    <string name="kompanija">КОМПАНИЈА:</string>
+    <string name="osigurena_suma">ОСИГУРЕНА СУМА:</string>
+
+    <string-array name="professions">
+        <item>Програмер</item>
+        <item>Професор</item>
+        <item>Лекар</item>
+        <item>Пилот</item>
+        <item>Таксист</item>
+        <item>Банкар</item>
+        <item>Правник</item>
+        <item>Информатичар</item>
+        <item>Новинар</item>
+    </string-array>
+    <string-array name="premiums">
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+        <item>450</item>
+        <item>500</item>
+        <item>600</item>
+        <item>700</item>
+        <item>800</item>
+        <item>900</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+        <item>2500</item>
+        <item>3000</item>
+    </string-array>
+    <string-array name="durations">
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+    
+    </string-array>
+
+</resources>
