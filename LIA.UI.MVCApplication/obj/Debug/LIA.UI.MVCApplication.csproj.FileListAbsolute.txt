@@ -1,0 +1,110 @@
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\LIA.UI.MVCApplication.dll.config
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\LIA.UI.MVCApplication.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\LIA.UI.MVCApplication.pdb
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Antlr3.Runtime.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\EntityFramework.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Newtonsoft.Json.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Owin.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\System.Web.Helpers.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\System.Web.Mvc.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\System.Web.Optimization.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\System.Web.Razor.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\System.Web.WebPages.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\WebGrease.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\System.Web.Helpers.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\System.Web.Mvc.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\System.Web.Optimization.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\System.Web.Razor.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\System.Web.WebPages.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Antlr3.Runtime.pdb
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Newtonsoft.Json.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\EntityFramework.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\obj\Debug\LIA.UI.MVCApplication.dll
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\obj\Debug\LIA.UI.MVCApplication.pdb
+C:\Users\IGI\Desktop\timski proekt ovoj!\LIA\LIA-LifeInsuranceAdvisor\LIA.UI.MVCApplication\obj\Debug\LIA.UI.MVCApplication.csprojResolveAssemblyReference.cache
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\LIA.UI.MVCApplication.dll.config
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\LIA.UI.MVCApplication.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\LIA.UI.MVCApplication.pdb
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Antlr3.Runtime.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\EntityFramework.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Newtonsoft.Json.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Owin.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\System.Web.Helpers.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\System.Web.Mvc.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\System.Web.Optimization.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\System.Web.Razor.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\System.Web.WebPages.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\WebGrease.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\System.Web.Helpers.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\System.Web.Mvc.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\System.Web.Optimization.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\System.Web.Razor.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\System.Web.WebPages.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Antlr3.Runtime.pdb
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Newtonsoft.Json.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\EntityFramework.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\obj\Debug\LIA.UI.MVCApplication.csprojResolveAssemblyReference.cache
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\obj\Debug\LIA.UI.MVCApplication.dll
+C:\Users\IGI\Desktop\timski bekap\LIA.UI.MVCApplication\obj\Debug\LIA.UI.MVCApplication.pdb

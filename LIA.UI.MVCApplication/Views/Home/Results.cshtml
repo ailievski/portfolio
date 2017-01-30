@@ -1,0 +1,107 @@
+﻿
+@{
+    ViewBag.Title = "Results";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-4">
+        Период на осигурување(години):
+        <br />
+        <select class="select2">
+            @for (int i = 10; i <= 25; i++)
+            {
+                <option>@i</option>
+            }
+
+        </select>
+    </div>
+    <div class="col-md-4">
+        Премија на осигурување(евра):
+        <br />
+        <select class="select2">
+            @for (int i = 200; i <= 1000; i += 100)
+            {
+                <option>@i</option>
+            }
+        </select>
+    </div>
+    <div class="col-md-2"></div>
+</div>
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8 table-responsive">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <td>Компанија</td>
+                    <td>Сума</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="testTr">
+                    <td>Кроација</td>
+                    <td>10.000</td>
+                </tr>
+                <tr class="testTr">
+                    <td>Винер</td>
+                    <td>11.999</td>
+                </tr>
+                <tr class="testTr">
+                    <td>Граве</td>
+                    <td>9.990</td>
+                </tr>
+                <tr class="testTr">
+                    <td>Уника</td>
+                    <td>10.090</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="col-md-2"></div>
+</div>
+
+<!-- ZA APLICIRANJE -->
+<!--
+    <div id="apliciraj">
+        <div id="zatvori">
+
+        </div>
+        Аплицирај за осигурување:
+        <input type="text" name="ime" placeholder="Внесете име" class="appInfo" id="name" />
+        <br />
+        <input type="number" name="telefon" placeholder="Внесете телефонски број" class="appInfo" id="phone" />
+        <br />
+        <input type="text" name="email" placeholder="Внесете и-мејл" class="appInfo" id="mail" />
+        <br />
+        <br />
+        <textarea placeholder="Вашата порака..." id="message" ></textarea>
+        <br />
+        <br />
+        <input type="submit" value="Испрати" class="kopce" />
+        <input type="submit" value="Избриши" class="kopce" onclick="Izbrisi()"/>
+    </div>
+-->
+
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery-ui-1.10.4.min.js"></script>
+<script>
+    function Izbrisi() {
+        document.getElementById("mail").value = "";
+        document.getElementById("name").value = "";
+        document.getElementById("message").value = "";
+        document.getElementById("phone").value = "";
+    }
+
+    $(function () {
+        $(".testTr").on("click", function () {
+            $("#apliciraj").css("display", "block");
+        });
+        $("#zatvori").on("click", function () {
+            $("#apliciraj").css("display", "none");
+        });
+    });
+
+</script>

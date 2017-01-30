@@ -1,0 +1,106 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <form name="search" action="" method="get" id="forma">
+            Пол:
+            <br />
+            <input type="radio" value="male" name="gender" id="kopce1" />
+            <label for="kopce1">Машко</label>
+            <input type="radio" value="female" name="gender" id="kopce2" />
+            <label for="kopce2">Женско</label>
+            <br />
+            Датум на раѓање:
+            <br />
+            <select class="form-control" id="den">
+                <option>д</option>
+                @for (int i = 1; i <= 31; i++)
+                {
+                    <option>@i</option>
+                }
+
+
+            </select>
+            <select class="form-control" id="mesec">
+                <option>м</option>
+                @for (int i = 1; i <= 12; i++)
+                {
+                    <option>@i</option>
+                }
+            </select>
+            <select class="form-control" id="godina">
+                <option>г</option>
+                @for (int i = 1960; i <= 2004; i++)
+                {
+                    <option>@i</option>
+                }
+            </select>
+            <br />
+            Професија(занимање):
+            <br />
+            <select class="form-control">
+                <option>Професија</option>
+                <option>Програмер</option>
+                <option>Професор</option>
+                <option>Лекар</option>
+                <option>Пилот</option>
+                <option>Таксист</option>
+                <option>Банкар</option>
+                <option>Правник</option>
+                <option>Информатичар</option>
+                <option>Новинар</option>
+            </select>
+            <br />
+            Траење на осигурувањето:
+            <br />
+            <select class="form-control">
+                <option>Број на години</option>
+                @for (int i = 10; i <= 25; i++)
+                {
+                    <option>@i</option>
+                }
+
+            </select>
+            <br />
+            Премија:
+            <br />
+            <select class="form-control">
+                <option>Годишна премија</option>
+                @for (int i = 200; i <= 1000; i += 100)
+                {
+                    <option>@i</option>
+                }
+            </select>
+            <br />
+            <div id="prebaraj">
+                <input type="submit" value="Пребарај" name="baraj" class="kopce" />
+            </div>
+        </form>
+    </div>
+    <div class="col-md-2"></div>
+</div>
+<!--
+ <button id="textKopce">RandomText</button>
+  <button id="textKopce2">RandomText2</button>
+ -->
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery-ui-1.10.4.min.js"></script>
+<script>
+
+        $(function () {
+
+            $("#textKopce").on("click", function () {
+                $("#forma").hide("drop", { direction: "left" }, 2000); //ili slide
+            });
+
+            $("#textKopce2").on("click", function () {
+                $("#tabela").css()// display block pa animate i rezultatite da uletaat od desno kon centar..
+            });
+
+
+        });
+        /**/
+</script>
