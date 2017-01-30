@@ -1,0 +1,1 @@
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\LifeInsuranceAdvisor.csproj;neutral

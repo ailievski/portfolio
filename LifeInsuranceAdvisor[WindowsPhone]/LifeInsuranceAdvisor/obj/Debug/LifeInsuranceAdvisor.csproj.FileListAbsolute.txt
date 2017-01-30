@@ -1,0 +1,409 @@
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\App.xbf
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\Contact.xbf
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\MainPage.xbf
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\Results.xbf
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.xr.xml
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.exe
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.pdb
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\resources.pri
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\AppxManifest.xml
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.build.appxrecipe
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\App.g.i.cs
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\App.g.cs
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\Contact.g.i.cs
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\Contact.g.cs
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\MainPage.g.i.cs
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\MainPage.g.cs
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\Results.g.i.cs
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\Results.g.cs
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\Contact.xaml
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\MainPage.xaml
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\Results.xaml
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\Contact.xbf
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\MainPage.xbf
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\Results.xbf
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\App.xaml
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\App.xbf
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.exe
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.pdb
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\priconfig.xml
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\priconfig.xml.intermediate
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\layout.resfiles
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\layout.resfiles.intermediate
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\resources.resfiles
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\resources.resfiles.intermediate
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\pri.resfiles
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\pri.resfiles.intermediate
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\qualifiers.txt
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Andrej\Documents\Visual Studio 2013\Projects\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\ProjectArchitectures.txt
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\App.xbf
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\Contact.xbf
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\MainPage.xbf
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\Results.xbf
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.xr.xml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.exe
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.pdb
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\resources.pri
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\AppxManifest.xml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.build.appxrecipe
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\App.g.i.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\App.g.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\Contact.g.i.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\Contact.g.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\MainPage.g.i.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\MainPage.g.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\Results.g.i.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\Results.g.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\Contact.xaml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\Contact.xbf
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\XamlSaveStateFile.xml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\App.xaml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\MainPage.xaml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\Results.xaml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\App.xbf
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\MainPage.xbf
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\Results.xbf
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.exe
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.pdb
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\priconfig.xml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\priconfig.xml.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\layout.resfiles
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\layout.resfiles.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\resources.resfiles
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\resources.resfiles.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\pri.resfiles
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\pri.resfiles.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\qualifiers.txt
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\qualifiers.txt.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor\LifeInsuranceAdvisor\obj\Debug\ProjectArchitectures.txt
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.exe.config
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\App.xbf
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\Contact.xbf
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\MainPage.xbf
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\Results.xbf
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.xr.xml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.exe
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.pdb
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\resources.pri
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\AppxManifest.xml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.build.appxrecipe
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\App.g.i.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\App.g.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Contact.g.i.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Contact.g.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\MainPage.g.i.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\MainPage.g.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Results.g.i.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Results.g.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Contact.xaml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Results.xaml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Contact.xbf
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Results.xbf
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\XamlSaveStateFile.xml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\App.xaml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\MainPage.xaml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\App.xbf
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\MainPage.xbf
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.exe
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.pdb
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\en-US\Microsoft.AspNet.SignalR.Client.Resources.resw
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.csproj.GenerateResource.Cache
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\layout.resfiles
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\layout.resfiles.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\Resources.resfiles
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\Resources.resfiles.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\pri.resfiles
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\pri.resfiles.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\priconfig.xml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\priconfig.xml.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client.pri
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\qualifiers.txt
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\layout.resfiles
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\layout.resfiles.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\Resources.resfiles
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\Resources.resfiles.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\pri.resfiles
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\pri.resfiles.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\priconfig.xml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\priconfig.xml.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting.pri
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\priconfig.xml
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\priconfig.xml.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\layout.resfiles
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\layout.resfiles.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\resources.resfiles
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\resources.resfiles.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\pri.resfiles
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\pri.resfiles.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\qualifiers.txt
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\qualifiers.txt.intermediate
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\sedc\Desktop\LifeInsuranceAdvisor_v2\LifeInsuranceAdvisor\obj\Debug\ProjectArchitectures.txt
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.exe.config
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\App.xbf
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Contact.xbf
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\MainPage.xbf
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Results.xbf
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.xr.xml
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.exe
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.pdb
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\resources.pri
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\AppxManifest.xml
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.build.appxrecipe
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.csprojResolveAssemblyReference.cache
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\App.g.i.cs
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\App.g.cs
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Contact.g.i.cs
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Contact.g.cs
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\MainPage.g.i.cs
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\MainPage.g.cs
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Results.g.i.cs
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Results.g.cs
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\App.xaml
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Contact.xaml
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\MainPage.xaml
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Results.xaml
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\App.xbf
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Contact.xbf
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\MainPage.xbf
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Results.xbf
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.exe
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.pdb
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\en-US\Microsoft.AspNet.SignalR.Client.Resources.resw
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.csproj.GenerateResource.Cache
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client.pri
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\qualifiers.txt
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting.pri
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\priconfig.xml
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\priconfig.xml.intermediate
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\layout.resfiles
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\layout.resfiles.intermediate
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\resources.resfiles
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\resources.resfiles.intermediate
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\pri.resfiles
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\pri.resfiles.intermediate
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\qualifiers.txt
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Andrej\Desktop\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\ProjectArchitectures.txt
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.exe.config
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\App.xbf
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Contact.xbf
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\MainPage.xbf
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Results.xbf
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.xr.xml
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.exe
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.pdb
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\resources.pri
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\AppxManifest.xml
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.csprojResolveAssemblyReference.cache
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\App.g.i.cs
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\App.g.cs
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Contact.g.i.cs
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Contact.g.cs
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\MainPage.g.i.cs
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\MainPage.g.cs
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Results.g.i.cs
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Results.g.cs
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\App.xaml
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Contact.xaml
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\MainPage.xaml
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Results.xaml
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\App.xbf
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Contact.xbf
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\MainPage.xbf
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Results.xbf
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.exe
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.pdb
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\en-US\Microsoft.AspNet.SignalR.Client.Resources.resw
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.csproj.GenerateResource.Cache
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\layout.resfiles
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\layout.resfiles.intermediate
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\Resources.resfiles
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\Resources.resfiles.intermediate
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\pri.resfiles
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\pri.resfiles.intermediate
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\priconfig.xml
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\priconfig.xml.intermediate
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client.pri
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\qualifiers.txt
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\layout.resfiles
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\layout.resfiles.intermediate
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\Resources.resfiles
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\Resources.resfiles.intermediate
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\pri.resfiles
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\pri.resfiles.intermediate
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\priconfig.xml
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\priconfig.xml.intermediate
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting.pri
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\priconfig.xml
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\priconfig.xml.intermediate
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\layout.resfiles
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\layout.resfiles.intermediate
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\resources.resfiles
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\resources.resfiles.intermediate
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\pri.resfiles
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\pri.resfiles.intermediate
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\qualifiers.txt
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Andrej\Desktop\lia bekap\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\ProjectArchitectures.txt
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.exe.config
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\App.xbf
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\AboutUs.xbf
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Contact.xbf
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\ContactUS.xbf
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\CPP.xbf
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\MainPage.xbf
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Results.xbf
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.xr.xml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.exe
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.pdb
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\resources.pri
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\AppxManifest.xml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.build.appxrecipe
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.csprojResolveAssemblyReference.cache
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\App.g.i.cs
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\App.g.cs
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\AboutUs.g.i.cs
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\AboutUs.g.cs
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Contact.g.i.cs
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Contact.g.cs
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\ContactUS.g.i.cs
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\ContactUS.g.cs
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\CPP.g.i.cs
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\CPP.g.cs
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\MainPage.g.i.cs
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\MainPage.g.cs
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Results.g.i.cs
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Results.g.cs
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\App.xaml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\AboutUs.xaml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Contact.xaml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\ContactUS.xaml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\CPP.xaml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\MainPage.xaml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Results.xaml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\App.xbf
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\AboutUs.xbf
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Contact.xbf
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\ContactUS.xbf
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\CPP.xbf
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\MainPage.xbf
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Results.xbf
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.exe
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.pdb
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\en-US\Microsoft.AspNet.SignalR.Client.Resources.resw
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\LifeInsuranceAdvisor.csproj.GenerateResource.Cache
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client.pri
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\qualifiers.txt
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting.pri
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\priconfig.xml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\priconfig.xml.intermediate
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\layout.resfiles
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\layout.resfiles.intermediate
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\resources.resfiles
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\resources.resfiles.intermediate
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\pri.resfiles
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\pri.resfiles.intermediate
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\qualifiers.txt
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\ProjectArchitectures.txt
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\layout.resfiles
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\layout.resfiles.intermediate
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\Resources.resfiles
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\Resources.resfiles.intermediate
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\pri.resfiles
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\pri.resfiles.intermediate
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\priconfig.xml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\Microsoft.AspNet.SignalR.Client\priconfig.xml.intermediate
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\layout.resfiles
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\layout.resfiles.intermediate
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\Resources.resfiles
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\Resources.resfiles.intermediate
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\pri.resfiles
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\pri.resfiles.intermediate
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\priconfig.xml
+C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\System.Net.Http.Formatting\priconfig.xml.intermediate

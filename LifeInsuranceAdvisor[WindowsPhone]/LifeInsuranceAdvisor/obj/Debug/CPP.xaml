@@ -1,0 +1,85 @@
+﻿<Page
+    x:Class="LifeInsuranceAdvisor.CPP"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:LifeInsuranceAdvisor"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{StaticResource Green }">
+
+    <Grid Margin="0,10,0,10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="AppName"
+                   Text="Life Insurance Advisor"
+                   HorizontalAlignment="Left"
+                   Foreground="{StaticResource Dark_Blue}"
+                   Style="{StaticResource TitleTextBlockStyle}"
+                   Margin="15,0"
+                   VerticalAlignment="Top" 
+                   FontSize="20"/>
+
+        <TextBlock x:Name="title" 
+                   Text="ЧПП" 
+                   FontSize="30"
+                   HorizontalAlignment="Left"
+                   FontWeight="Bold"
+                   Style="{StaticResource HeaderTextBlockStyle}" 
+                   Margin="15,20,15,0"
+                   Foreground="{StaticResource White}"
+                   VerticalAlignment="Top" 
+                   FontFamily="Segoe WP"/>
+
+        <TextBlock x:Name="Line"
+                   Text="_________________________"
+                   Foreground="{StaticResource Dark_Blue}"
+                   TextWrapping="NoWrap"
+                   FontSize="48"
+                   Margin="10,30,10,0"
+                   VerticalAlignment="Top"/>
+        <ScrollViewer Grid.Row="1">
+            <StackPanel Margin="20,0,20,0">
+                <TextBlock Text="ШТО ПРЕТСТАВУВА ЖИВОТНО ОСИГУРУВАЊЕ?"
+                           FontSize="20"
+                           FontWeight="Bold"
+                           Foreground="{StaticResource Dark_Blue}"
+                           TextWrapping="Wrap"/>
+                <TextBlock Text="Осигурувањето на живот е долгорочно решение, кое нуди комбинација на најбезбеден облик на штедење, сигурност како и осигурување. Овој вид на долгорочно штедење е целосно приспособливо на индивидуалните потреби на клиентите, кои сами одлучуваат колку сакаат да штедат и сами ја креираат нивната осигурена сума. Животното осигурување на своите корисници примарно им гарантира сигурна исплата на сите вложени средства заедно со припишана добивка по истекот на осигурителниот период. Преку овој инструмент осигуреникот обезбедува финансиска сигурност на најблиското семејство во случај на настанување на несреќен настан со фатални последици (смрт)."
+                           FontSize="18"
+                           Margin="0,5,0,0"
+                           Foreground="{StaticResource Light_Blue}"
+                           TextAlignment="Left"
+                           TextWrapping="Wrap"/>
+                <TextBlock Text="ШТО СЕ ПОДРАЗБИРА ПОД ПРЕМИЈА?"
+                           FontSize="20"
+                           FontWeight="Bold"
+                           Margin="0,10,0,0"
+                           Foreground="{StaticResource Dark_Blue}"
+                           TextWrapping="Wrap"/>
+                <TextBlock Text="Премија е годишниот влог кој го корисникот го издвојува за неговата осигурителна полиса. Премијата по дефиниција е цена на ризикот."
+                           FontSize="18"
+                           Margin="0,5,0,0"
+                           Foreground="{StaticResource Light_Blue}"
+                           TextAlignment="Left"
+                           TextWrapping="Wrap"/>
+                <TextBlock Text="ШТО Е ОСИГУРЕНА СУМА?"
+                           FontSize="20"
+                           FontWeight="Bold"
+                           Margin="0,10,0,0"
+                           Foreground="{StaticResource Dark_Blue}"
+                           TextWrapping="Wrap"/>
+                <TextBlock Text="Осигурена сума е крајниот износ кој корисникот го добива по истекување на договорот за осигурување. Висината на осигурената сума зависи правопропорционално од висината на премијата и должината на периодот за кој е осигуран корисникот."
+                           FontSize="18"
+                           Foreground="{StaticResource Light_Blue}"
+                           Margin="0,5,0,0"
+                           TextAlignment="Left"
+                           TextWrapping="Wrap"/>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>
+

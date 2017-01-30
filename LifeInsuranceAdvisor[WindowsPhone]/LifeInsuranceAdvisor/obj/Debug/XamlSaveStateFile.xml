@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\andrej\desktop\lia\lifeinsuranceadvisor_v3\lifeinsuranceadvisor\obj\debug\intermediatexaml\lifeinsuranceadvisor.exe" HashGuid="b15c4882-c4f5-6379-f4d7-f84a090f830d" />
+    <ReferenceAssembly PathName="c:\users\andrej\desktop\lia\lifeinsuranceadvisor_v3\packages\microsoft.aspnet.signalr.client.2.1.2\lib\portable-net45+sl5+netcore45+wp8+wp81+wpa81\microsoft.aspnet.signalr.client.dll" HashGuid="f8125746-d551-5a4d-f707-b9c4c8ed208b" />
+    <ReferenceAssembly PathName="c:\users\andrej\desktop\lia\lifeinsuranceadvisor_v3\packages\microsoft.bcl.async.1.0.168\lib\wpa81\microsoft.threading.tasks.dll" HashGuid="3a1beea5-1547-d5c6-af32-3b5c761c2a6a" />
+    <ReferenceAssembly PathName="c:\users\andrej\desktop\lia\lifeinsuranceadvisor_v3\packages\microsoft.bcl.async.1.0.168\lib\wpa81\microsoft.threading.tasks.extensions.dll" HashGuid="79a01987-c06c-c9d7-37eb-629809787680" />
+    <ReferenceAssembly PathName="c:\users\andrej\desktop\lia\lifeinsuranceadvisor_v3\packages\newtonsoft.json.6.0.5\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="96120131-2625-5747-239a-d2fb6f2e1188" />
+    <ReferenceAssembly PathName="c:\users\andrej\desktop\lia\lifeinsuranceadvisor_v3\packages\microsoft.net.http.2.2.28\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="c:\users\andrej\desktop\lia\lifeinsuranceadvisor_v3\packages\microsoft.aspnet.webapi.client.5.2.2\lib\portable-wp8+netcore45+net45+wp81+wpa81\system.net.http.formatting.dll" HashGuid="be2a4785-9a6a-e28d-8cef-3eb295a45d5a" />
+    <ReferenceAssembly PathName="c:\users\andrej\desktop\lia\lifeinsuranceadvisor_v3\packages\microsoft.net.http.2.2.28\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

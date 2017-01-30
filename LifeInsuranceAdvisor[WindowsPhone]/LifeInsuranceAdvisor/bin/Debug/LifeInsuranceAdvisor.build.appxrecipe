@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANDREJ</Machine>
+    <WindowsUser>Andrej</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a48bdb7e-fc03-4757-966a-c2f142be72cd</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.exe">
+      <PackagePath>LifeInsuranceAdvisor.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.exe.config">
+      <PackagePath>LifeInsuranceAdvisor.exe.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\packages\Microsoft.AspNet.SignalR.Client.2.1.2\lib\portable-net45+sl5+netcore45+wp8+wp81+wpa81\Microsoft.AspNet.SignalR.Client.dll">
+      <PackagePath>Microsoft.AspNet.SignalR.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\packages\Microsoft.Bcl.Async.1.0.168\lib\wpa81\Microsoft.Threading.Tasks.dll">
+      <PackagePath>Microsoft.Threading.Tasks.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\packages\Microsoft.Bcl.Async.1.0.168\lib\wpa81\Microsoft.Threading.Tasks.Extensions.dll">
+      <PackagePath>Microsoft.Threading.Tasks.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\packages\Newtonsoft.Json.6.0.5\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\packages\Microsoft.Net.Http.2.2.28\lib\wpa81\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\packages\Microsoft.AspNet.WebApi.Client.5.2.2\lib\portable-wp8+netcore45+net45+wp81+wpa81\System.Net.Http.Formatting.dll">
+      <PackagePath>System.Net.Http.Formatting.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\packages\Microsoft.Net.Http.2.2.28\lib\wpa81\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\Assets\contact.png">
+      <PackagePath>Assets\contact.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\Assets\croatia.png">
+      <PackagePath>Assets\croatia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\Assets\grawe_insurance.png">
+      <PackagePath>Assets\grawe_insurance.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\Assets\uniqa.png">
+      <PackagePath>Assets\uniqa.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\Assets\winner.png">
+      <PackagePath>Assets\winner.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\AboutUs.xbf">
+      <PackagePath>AboutUs.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Contact.xbf">
+      <PackagePath>Contact.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\ContactUS.xbf">
+      <PackagePath>ContactUS.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\CPP.xbf">
+      <PackagePath>CPP.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\Results.xbf">
+      <PackagePath>Results.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\LifeInsuranceAdvisor.xr.xml">
+      <PackagePath>LifeInsuranceAdvisor.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andrej\Desktop\LIA\LifeInsuranceAdvisor_v3\LifeInsuranceAdvisor\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
